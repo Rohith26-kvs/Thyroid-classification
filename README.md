@@ -1,15 +1,15 @@
 
-├── thyroid_classification.py      # Main training code: data preprocessing, model training, and evaluation
-├── app.py                         # Flask web app for user input and prediction
+├── thyroid_classification.py      
+├── app.py                         
 ├── templates/
-│   └── index.html                 # Frontend UI for entering medical values and viewing results
+│   └── index.html                 
 ├── static/
-│   └── style.css                  # Styling for the web interface
+│   └── style.css                  
 ├── models/
-│   └── xgboost_model.pkl          # Trained XGBoost model for thyroid prediction
+│   └── xgboost_model.pkl          
 ├── results/
-│   ├── accuracy.txt               # Model performance metrics
-│   └── confusion_matrix.png       # Visualization of model performance
+│   ├── accuracy.txt               
+│   └── confusion_matrix.png       
 ├── requirements.txt
 ├── .gitignore
 └── README.md
