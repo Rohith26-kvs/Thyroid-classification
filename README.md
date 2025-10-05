@@ -1,4 +1,4 @@
-.
+
 ├── thyroid_classification.py      # Main training code: data preprocessing, model training, and evaluation
 ├── app.py                         # Flask web app for user input and prediction
 ├── templates/
